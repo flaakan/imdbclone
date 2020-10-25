@@ -1,0 +1,13 @@
+.navBarStyle{
+    height: 4rem;
+    background-color: gray;
+    margin-bottom: 4rem;
+}
+
+.navbar .navBarBrand{
+    color: honeydew;
+}
+
+.navbar .navBarBrand:hover{
+    color: lightgray;
+}
